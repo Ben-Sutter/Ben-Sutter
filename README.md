@@ -4,7 +4,7 @@
 
 - 🔭 I am actively seeking employment
 
-- 🌱 Current Projects: personal website, React/TypeScript Spotify controller for Raspberry Pi
+- 🌱 Current Projects: personal website (multiple repos), React/TypeScript Spotify controller for Raspberry Pi
 
 - 📫 How to reach me: benjaminwsutter@gmail.com
 
