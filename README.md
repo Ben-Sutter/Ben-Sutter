@@ -2,11 +2,12 @@
 
 - 😄 Pronouns: He/Him/His
 
-- 🔭 I’m a Senior in CS at UIUC
+- 🔭 I am actively seeking employment
 
-- 🌱 I’m currently learning Haskell 
+- 🌱 Current Projects: personal website, React/TypeScript Spotify controller for Raspberry Pi
 
-- 📫 How to reach me: benwsutter@gmail.com
+- 📫 How to reach me: benjaminwsutter@gmail.com
 
-- ⚡ Fun fact: I have broken my arm 5 different times
+- ⚡ Fun fact: I have broken my arm five different times
 
+*Note that many of my personal projects are currently hidden, so please excuse the odd assortment of visible projects 💯💯💯
